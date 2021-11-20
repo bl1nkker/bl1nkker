@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **nurovich14@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/daniyar-auezkhan-3327631b9/](https://www.linkedin.com/in/daniyar-auezkhan-3327631b9/)
-
 - ⚡ Fun fact **'P' in my name stands for Positive**
 
 <h3 align="left">Connect with me:</h3>

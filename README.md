@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Flutter Apprentice Book](https://github.com/bl1nkker/flutter-scrollable-interactive)
 
-- 🌱 I’m currently learning **Flutter, BLoC, NextJS, GraphQL, ApolloServer**
+- 🌱 I’m currently learning **Flutter, NextJS, GraphQL, ApolloServer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bl1nkker](https://github.com/bl1nkker)
 

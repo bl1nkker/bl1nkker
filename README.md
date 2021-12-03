@@ -1,7 +1,7 @@
 <h1 align="center">Heyo 👋, my name is Daniyar!</h1>
 <h3 align="center">Mobile and Web Developer</h3>
 
-- 🔭 I’m currently working on [Flutter Apprentice Book](https://github.com/bl1nkker/flutter-scrollable-interactive)
+- 🔭 I’m currently working on DrinGo App
 
 - 🌱 I’m currently learning **Flutter, NextJS, GraphQL, ApolloServer**
 

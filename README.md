@@ -1,5 +1,5 @@
 <h1 align="center">Heyo 👋, my name is Daniyar!</h1>
-<h3 align="center">Mobile and Web Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 - 🔭 I’m currently working on DrinGo App
 

@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on DrinGo App
 
-- 🌱 I’m currently learning **Flutter, NextJS, GraphQL, ApolloServer**
+- 🌱 I’m currently learning **Dart, Python, TypeScript, JavaScript, C#, Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bl1nkker](https://github.com/bl1nkker)
 
-- 💬 Ask me about **ReactJS, NextJS, Flutter, Python, SCSS, Express**
+- 💬 Ask me about **ReactJS, NextJS, Flutter, Python, CSS/HTML, NodeJS, ApolloServer, GraphQL**
 
 - 📫 How to reach me **nurovich14@gmail.com**
 

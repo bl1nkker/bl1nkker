@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on DrinGo App
 
-- 🌱 I’m currently learning **Dart, Python, TypeScript, JavaScript, C#, Java**
+- 🌱 I’m currently learning **Dart, Python, TypeScript, JavaScript, C#, .NET Core**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bl1nkker](https://github.com/bl1nkker)
 

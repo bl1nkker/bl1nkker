@@ -1,7 +1,7 @@
 <h1 align="center">Heyo 👋, my name is Daniyar!</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working on DrinGo App
+- 🔭 I’m currently working on Mobile Development
 
 - 🌱 I’m currently learning **Dart, Python, TypeScript, JavaScript, C#, .NET Core**
 

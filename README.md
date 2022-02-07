@@ -1,15 +1,15 @@
 <h1 align="center">Heyo 👋, my name is Daniyar!</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working on Flutter
+- 🔭 Currently working on Flutter
 
-- 🌱 I’m currently learning **Dart, Python, TypeScript, JavaScript, C#, .NET Core**
+- 🌱 Learning **Dart, Python, TypeScript, JavaScript, C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bl1nkker](https://github.com/bl1nkker)
 
-- 💬 Ask me about **ReactJS, NextJS, Flutter, Python, CSS/HTML, NodeJS, ApolloServer, GraphQL**
+- 💬 Ask me about **ReactJS, NextJS, Flutter, Python, CSS/HTML, NodeJS, GraphQL**
 
-- 📫 How to reach me **nurovich14@gmail.com**
+- 📫 How to reach me: **nurovich14@gmail.com**
 
 - ⚡ Fun fact **'P' in my name stands for Positive**
 

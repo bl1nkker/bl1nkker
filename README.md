@@ -5,9 +5,7 @@
 
 - 🌱 Learning **Dart, Python, TypeScript, JavaScript, C#**
 
-- 👨‍💻 All of my projects are available at [https://github.com/bl1nkker](https://github.com/bl1nkker)
-
-- 💬 Ask me about **ReactJS, NextJS, Flutter, Python, CSS/HTML, NodeJS, GraphQL**
+- 💬 Ask me about **ReactJS, NextJS, Flutter, Django, CSS/HTML, NodeJS, GraphQL**
 
 - 📫 How to reach me: **nurovich14@gmail.com**
 

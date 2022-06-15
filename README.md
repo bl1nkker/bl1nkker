@@ -1,7 +1,7 @@
 <h1 align="center">Heyo 👋, my name is Daniyar!</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🔭 Currently working on Flutter
+- 🔭 Currently working on Flutter 
 
 - 🌱 Learning **Dart, Python, TypeScript, JavaScript, C#**
 
